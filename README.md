@@ -1,7 +1,7 @@
 # A Comparative Analysis of Classifiers for Medical Image Classification
 
 ## Introduction
-This repository contains the code and documentation for a minor project conducted during the 6th semester by **Srijan Kumar, **Sneha Singh and **Jyoti Kumari. The project focuses on performing a comparative analysis of various classifiers for medical image classification. The goal is to evaluate the performance of different machine learning algorithms in accurately classifying medical images, which can aid in the diagnosis and treatment of various diseases.
+This repository contains the code and documentation for a minor project conducted during the 6th semester by **Srijan Kumar**, **Sneha Singh** and **Jyoti Kumari**. The project focuses on performing a comparative analysis of various classifiers for medical image classification. The goal is to evaluate the performance of different machine learning algorithms in accurately classifying medical images, which can aid in the diagnosis and treatment of various diseases.
 
 ## Project Overview
 Medical image classification plays a crucial role in healthcare, enabling the identification and classification of diseases based on imaging data such as X-rays, CT scans, and MRI scans. The objective of this project is to explore and compare different classifiers in terms of their accuracy, efficiency, and robustness for medical image classification tasks.
